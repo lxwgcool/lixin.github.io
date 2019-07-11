@@ -5,13 +5,18 @@ author_profile: true
 title: "Software"
 ---
 
-PedMix
+EigenDel
 ------
+**_EigenDel_** is developed by _C++_ and _Python_. It takes advantage of unsupervised learning to detect germline submicroscopic genomic deletions based on pair-end reads. To download or for more details, please refer to [https://github.com/lxwgcool/EigenDel](https://github.com/lxwgcool/EigenDel).
 
-**_PedMix_** is written by _C++_ with openmp. It is an **_HMM_** (Hidden Markov Model) based framework designed to infer the admixture proportion of parents, grandparents and even great grandparents. To download or for more details, please refer to [https://github.com/pjweggy/PedMix](https://github.com/pjweggy/PedMix).
 
-CLADES
+CircDBG
 ------
+**_CircDBG_** is developed by _C++_. It uses a special designed de Bruijn graph for circular RNA detection. For more details, please refer to [https://github.com/lxwgcool/CircDBG](https://github.com/lxwgcool/CircDBG).
 
-**_CLADES_** is written by _Python_. It is designed for species delimitation problem using classification-based method. For more details, please refer to [https://github.com/pjweggy/CLADES](https://github.com/pjweggy/CLADES).
+
+CircMarker
+------
+**_CircMarker_** is developed by _C++_. It finds circular RNA based on k-mers rather than reads mapping. For more details, please refer to [https://github.com/lxwgcool/CircMarker](https://github.com/lxwgcool/CircMarker).
+
 
