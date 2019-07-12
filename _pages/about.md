@@ -19,7 +19,7 @@ I am a Ph.D. candidate in Computer Science at University of Connecticut. I got m
 
 Education
 ------
-**Ph.D.**, Department of Computer Science & Engineering, **University of Connecticut**, 2019
+**Ph.D.**, Department of Computer Science & Engineering, **University of Connecticut**, 2014 - 2019
 
-**M.S.**, School of Software Engineering, **Beihang University**, 2009
+**M.S.**, School of Software Engineering, **Beihang University**, 2006 - 2009
 
