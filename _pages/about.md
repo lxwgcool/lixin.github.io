@@ -15,7 +15,7 @@ redirect_from:
 
 About me
 ------
-I am a Ph.D. candidate in Computer Science at University of Connecticut. I got my bachelor degree in the major of Mathematics, after that, I obtained my master degree in the major of software engineering (computer graphics). Then, I worked for Todaysoft Ltd, Beijing, China (Business Partner of SoftGenetics LLC, State College, PA) nearly 6 years. I was in the position of R&D director since 2011. I pursue my Ph.D degree in the department of computer science and engineering at University of Connecticut since 2014 Fall and plan to graduate in 2019. My research interest is in DNA sequence (NGS) analysis and High Performance Computing. 
+I am a Ph.D. candidate in Computer Science at University of Connecticut. I got my bachelor degree in the major of mathematics. After that, I obtained my master degree in the major of computer software engineering (computer graphics) in 2009. Then, I worked for Todaysoft Ltd, Beijing, China (business partner of SoftGenetics LLC, State College, PA) as a software enginner nearly 6 years. I was in the position of R&D director since 2011. I pursue my Ph.D degree in the department of computer science and engineering at University of Connecticut since 2014 fall and plan to graduate in 2019. My research interest is in DNA sequence (NGS) analysis and high performance computing (HPC). 
 
 Education
 ------
