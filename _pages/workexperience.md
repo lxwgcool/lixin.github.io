@@ -13,7 +13,7 @@ HPC Administrator (2016-present)，University of Connecticut, Storrs
 * Deploy the new hardwares, such as computing nodes and storage file system.
 
 
-R&D Director (2011-2014),  Software Engineer (2009 - 2011), Todaysoft Ltd, Beijing, China
+R&D Director (2011-2014),  Software Engineer (2009 - 2014), Todaysoft Ltd, Beijing, China
 ------
 * Lead the research and development of DNA fragment analysis software (C++).
 * Software design, algorithm research, and core code implementation.
