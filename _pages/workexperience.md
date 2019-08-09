@@ -16,12 +16,12 @@ HPC Administrator (2016-present)，University of Connecticut, Storrs
 
 R&D Director (2011-2014),  Software Engineer (2009 - 2014), Todaysoft Ltd, Beijing, China
 ------
-* Lead the research and development of DNA fragment analysis software (C++).
-* Software design, algorithm research, and core code implementation.
-* Requirements analysis and prototype development for the market in both China and US.
+* Lead the research and development of DNA fragment analysis software (C++)
+* Software architecture design, algorithm research, and core code implementation
+* Requirements analysis and prototype development for the market in both China and US
 * Major Products: ChimerMarker (automated chimerism analysis), GeneMarker HID (STR Human
-Identity), GeneMarker (genotype analysis), GeneMarker MTP (multi-template processor), GeneMarker DxTerity (nuclear radiation exposure testing), GeneMarker Melting Curve (thalassemia and tuberculosis resistance testing), GeneMarker Maize (corn breeding testing).
-* These products have been used by more than 2,000 top-notch labs worldwide.
+Identity), GeneMarker (genotype analysis), GeneMarker MTP (multi-template processor), GeneMarker DxTerity (nuclear radiation exposure testing), GeneMarker Melting Curve (thalassemia and tuberculosis resistance testing), GeneMarker Maize (corn breeding testing)
+* These products have been used by more than 2,000 top-notch labs worldwide
 
 
 Research Intern (2007 - 2008), Siemens Corporate Technology, Beijing, China
