@@ -7,10 +7,11 @@ title: "Work Experience"
 
 HPC Administrator (2016-present)，University of Connecticut, Storrs
 ------
-* Provide assistance to the users of HPC cluster in resolving issues and managing support tickets.
-* System performance analysis and tuning; monitor, analyze, and correct system issues.
-* Build, install and support user requested software.
-* Deploy the new hardware, such as computing nodes and clustered file system.
+* Provide assistance to the users of HPC cluster in resolving issues and managing support tickets
+* System performance analysis and tuning; monitor, analyze, and correct system issues
+* Build, install and support user requested software
+* Create singularity image for kernel sensitive tools, such as tensorflow (CUDA-based version)
+* Deploy the new hardware, such as computing nodes and clustered file system
 
 
 R&D Director (2011-2014),  Software Engineer (2009 - 2014), Todaysoft Ltd, Beijing, China
