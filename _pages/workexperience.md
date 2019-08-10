@@ -14,6 +14,13 @@ HPC Administrator (2016-present)，University of Connecticut, Storrs
 * Deploy the new hardware, such as computing nodes and clustered file system
 
 
+Research Assistant (2014-present)，University of Connecticut, Storrs
+------
+* Design computational algorithm for complex genome analysis based on NGS sequencing data
+* DNA/RNA sequence analysis in multi-research fields, such as SV deletion, circRNA and gap filling
+* Build pipeline to process NGS data by using 3rd-party tools, such as BWA, SAMTools and Picard
+
+
 R&D Director (2011-2014),  Software Engineer (2009 - 2014), Todaysoft Ltd, Beijing, China
 ------
 * Lead the research and development of DNA fragment analysis software (C++)
