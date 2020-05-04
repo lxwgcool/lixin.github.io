@@ -12,6 +12,7 @@ redirect_from:
 |Phone:   |860-617-9785                   |
 |LinkedIn:|[https://www.linkedin.com/in/xin-li/](https://www.linkedin.com/in/xin-li-75518728/)|
 |github:  |[https://github.com/lxwgcool](https://github.com/lxwgcool)|
+|Google Scholar:  |[https://scholar.google.com/lxwgcool](https://scholar.google.com/citations?user=XaNwPRUAAAAJ&hl=en&authuser=1)|
 
 About me
 ------
